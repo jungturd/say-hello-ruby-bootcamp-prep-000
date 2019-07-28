@@ -4,3 +4,5 @@ def say_hello (name)
 end
 
 name = Gabriela
+
+puts say_hello
